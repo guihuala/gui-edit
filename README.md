@@ -1,5 +1,14 @@
-# Vue 3 + Vite
+欢迎来到Gui-edit👏
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 主要特点
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- **简单易用**：使用 Markdown 语法书写内容
+- **代码高亮**：支持多种编程语言的语法高亮
+- **响应式图片**：图片将根据屏幕大小自动调整
+- **导入及导出文本**：支持导入markdown格式文件及导入markdown和html格式文件
+- **拖拽自动导入**：支持拖拽自动导入markdown格式文件
+
+## 版本
+目前为第一代版本，暂时不支持更多语法，仅有最简单的功能。
+
+日后可能会增加功能。
