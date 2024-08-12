@@ -9,10 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/typography": "^0.5.14",
     "highlight.js": "^11.10.0",
     "markdown-it": "^14.1.0",
-    "markdown-it-imsize": "^2.0.1",
     "marked": "^14.0.0",
     "vue": "^3.4.35"
   },
